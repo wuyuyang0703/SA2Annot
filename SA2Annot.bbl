@@ -1,0 +1,137 @@
+\begin{thebibliography}{1}
+\providecommand{\url}[1]{#1}
+\csname url@rmstyle\endcsname
+\providecommand{\newblock}{\relax}
+\providecommand{\bibinfo}[2]{#2}
+\providecommand\BIBentrySTDinterwordspacing{\spaceskip=0pt\relax}
+\providecommand\BIBentryALTinterwordstretchfactor{4}
+\providecommand\BIBentryALTinterwordspacing{\spaceskip=\fontdimen2\font plus
+\BIBentryALTinterwordstretchfactor\fontdimen3\font minus
+  \fontdimen4\font\relax}
+\providecommand\BIBforeignlanguage[2]{{%
+\expandafter\ifx\csname l@#1\endcsname\relax
+\typeout{** WARNING: IEEEtran.bst: No hyphenation pattern has been}%
+\typeout{** loaded for the language `#1'. Using the pattern for}%
+\typeout{** the default language instead.}%
+\else
+\language=\csname l@#1\endcsname
+\fi
+#2}}
+
+\bibitem{amerson2021nursing}
+\BIBentryALTinterwordspacing
+R.~Amerson, B.~Fisher, J.~Bible, L.~Burgess, L.~Ravan, and L.~Ward, ``Nursing
+  education amid a pandemic: mental health in a time of virtual learning,''
+  \emph{Nurse Educator}, vol.~46, no.~4, pp. 255--260, 2021. [Online].
+  Available: \url{https://doi.org/10.1097/NNE.0000000000001039}
+\BIBentrySTDinterwordspacing
+
+
+\bibitem{doi:10.1177/1078390320919803}
+\BIBentryALTinterwordspacing
+K.~R. Choi, M.~V. Heilemann, A.~Fauer, and M.~Mead, ``A second pandemic: Mental
+  health spillover from the novel coronavirus (covid-19),'' \emph{Journal of
+  the American Psychiatric Nurses Association}, vol.~26, no.~4, pp. 340--343,
+  2020, pMID: 32340586. [Online]. Available:
+  \url{https://doi.org/10.1177/1078390320919803}
+\BIBentrySTDinterwordspacing
+ \begin{quotation}\noindent \par The article evaluates the impact of COVID-19
+  pandemic and social distancing policies on public mental health. (1)
+  Patients, their families, and medical professionals may get long-term trauma
+  due to the stressful environment at hospitals. The authors suggest that the
+  healthcare system provide sufficient support resources for these population
+  groups. (2) The sudden influx of COVID-19 patients may take away mental
+  health resources. Mental health institutions need to compose plans in advance
+  to accomodate psychiatric patients provided the potential increase of
+  inpatients and react timely to overburdening. (3) The pandemic takes toll on
+  mental well-being among communities. Social distancing brings anxiety,
+  isolation, and loneliness to individuals, together with deteriorating
+  economic stability and increased need to take care of family members. The
+  authors call for communal mental support to prevent the ongoing mental
+  crisis. At last, the article suggests closer cooperation among hospitals,
+  community mental health centers, and related officials to ensure the safety
+  and continuity of mental care for individuals. The healthcare system would
+  require supporting mechanisms to alleviate pandemic-induced challenges
+  mentioned above, including trauma-informed ICU care, virtual support,
+  adequate training, staffing, and equipment. The authors expect a more
+  important role for nurses. \par The article mostly cites from professional
+  healthcare institutions including CDC and American Psychiatric Association
+  and medical research journals. Every claim is supported by sufficient
+  evidence, so there should be no credibility issues. This article may help us
+  define the mental health challenge. It also included solutions in the last
+  two paragraphs without investigating. \end{quotation}
+
+\bibitem{kopelovich2021community}
+\BIBentryALTinterwordspacing
+S.~L. Kopelovich, M.~Monroe-DeVita, B.~E. Buck, C.~Brenner, L.~Moser, L.~F.
+  Jarskog, S.~Harker, and L.~A. Chwastiak, ``Community mental health care
+  delivery during the covid-19 pandemic: practical strategies for improving
+  care for people with serious mental illness,'' \emph{Community Mental Health
+  Journal}, vol.~57, no.~3, pp. 405--415, 2021. [Online]. Available:
+  \url{https://doi.org/10.1007/s10597-020-00662-z}
+\BIBentrySTDinterwordspacing
+
+
+\bibitem{MORENO2020813}
+\BIBentryALTinterwordspacing
+C.~Moreno, T.~Wykes, S.~Galderisi, M.~Nordentoft, N.~Crossley, N.~Jones,
+  M.~Cannon, C.~U. Correll, L.~Byrne, S.~Carr, E.~Y.~H. Chen, P.~Gorwood,
+  S.~Johnson, H.~K\"{a}rkk\"{a}inen, J.~H. Krystal, J.~Lee, J.~Lieberman,
+  C.~L\'{o}pez-Jaramillo, M.~M\"{a}nnikk\"{o}, M.~R. Phillips, H.~Uchida,
+  E.~Vieta, A.~Vita, and C.~Arango, ``How mental health care should change as a
+  consequence of the covid-19 pandemic,'' \emph{The Lancet Psychiatry}, vol.~7,
+  no.~9, pp. 813--824, 2020. [Online]. Available:
+  \url{https://www.sciencedirect.com/science/article/pii/S2215036620303072}
+\BIBentrySTDinterwordspacing
+
+
+\bibitem{rek2021covid}
+\BIBentryALTinterwordspacing
+S.~V. Rek, M.~B{\"u}hner, M.~A. Reinhard, D.~Freeman, D.~Keeser, K.~Adorjan,
+  P.~Falkai, and F.~Padberg, ``The covid-19 pandemic mental health
+  questionnaire (copaq): Psychometric evaluation and compliance with
+  countermeasures in psychiatric inpatients and non-clinical individuals,''
+  \emph{BMC psychiatry}, vol.~21, no.~1, pp. 1--15, 2021. [Online]. Available:
+  \url{https://doi.org/10.1186/s12888-021-03425-6}
+\BIBentrySTDinterwordspacing
+
+
+\bibitem{info:doi/10.2196/24868}
+\BIBentryALTinterwordspacing
+C.~G. Richardson, A.~Slemon, A.~Gadermann, C.~McAuliffe, K.~Thomson, Z.~Daly,
+  T.~Salway, L.~M. Currie, A.~David, and E.~Jenkins, ``Use of asynchronous
+  virtual mental health resources for covid-19 pandemic--related stress among
+  the general population in canada: Cross-sectional survey study,'' \emph{J Med
+  Internet Res}, vol.~22, no.~12, p. e24868, Dec 2020. [Online]. Available:
+  \url{https://doi.org/10.2196/24868}
+\BIBentrySTDinterwordspacing
+ \begin{quotation}\noindent \par The article investigates the usage of AVMH
+  (Asynchronous Virtual Mental Health, any apps or websites that do not involve
+  direct synchoronous contact with mental healthcare providers) among the
+  public in Canada during COVID-19 pandemic. As an alternative to in-person
+  meeting between patients and professionals, AVMH displayed great potential in
+  controlling symptoms and reducing the need for clinical care. However, its
+  usage and effects were limited according to research before the pandemic. The
+  authors collected data from a large multiwave cross-sectional monitoring
+  survey conducted on the internet among Canadian adults from various
+  backgrounds including different ages, ethnicities, genders, regions, and
+  income levels, who underwent negative mental conditions during the pandemic.
+  The result proved that AVMH resources have been underutilized, and the
+  authors concluded several reasons: (1) AVMH was not previously proven to be
+  ``underutilized'', and therefore its effectiveness was under question. (2)
+  Technological literacy and privacy concerns impaired the comfort of using
+  AVMH resources. (3) Not all apps that claimed to provide AVMH service were
+  proven effective and trustworthy. (4) Severe symptoms might stop patients
+  from using AVMH. However, the study also discovered that certain minorities
+  had a higher percentage of AVMH usage due to the anonymity of AVMH, and AVMH
+  users who received peer support were more likely to keep using related
+  services. At last, the authors suggested that the usage of AVMH should be
+  further promoted as a key foundation of a denser face-to-face mental support
+  rather than a replacement for clinical diagnosis. \par The survey report
+  provided insight into AVMH as a solution to pandemic-induced mental
+  challenges. It used mostly journal articles and the confidentiality of the
+  sources could be verified. Although it did not involve data concerning AVMH
+  consulting results, we could possibly suggest expanding the usage of AVMH as
+  a solution to our main problem. \end{quotation}
+
+\end{thebibliography}

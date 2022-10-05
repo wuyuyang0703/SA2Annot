@@ -1,0 +1,58 @@
+@article{doi:10.1177/1078390320919803,
+author = {Kristen R. Choi and MarySue V. Heilemann and Alex Fauer and Meredith Mead},
+title ={A Second Pandemic: Mental Health Spillover From the Novel Coronavirus (COVID-19)},
+journal = {Journal of the American Psychiatric Nurses Association},
+volume = {26},
+number = {4},
+pages = {340-343},
+year = {2020},
+doi = {10.1177/1078390320919803},
+    note ={PMID: 32340586},
+
+URL = { 
+        https://doi.org/10.1177/1078390320919803
+    
+},
+eprint = { 
+        https://doi.org/10.1177/1078390320919803
+    
+},
+    annote = {
+    The article evaluates the impact of COVID-19 pandemic and social distancing policies on public mental health. (1) Patients, their families, and medical professionals may get long-term trauma due to the stressful environment at hospitals. The authors suggest that the healthcare system provide sufficient support resources for these population groups. (2) The sudden influx of COVID-19 patients may take away mental health resources. Mental health institutions need to compose plans in advance to accomodate psychiatric patients provided the potential increase of inpatients and react timely to overburdening. (3) The pandemic takes toll on mental well-being among communities. Social distancing brings anxiety, isolation, and loneliness to individuals, together with deteriorating economic stability and increased need to take care of family members. The authors call for communal mental support to prevent the ongoing mental crisis. At last, the article suggests closer cooperation among hospitals, community mental health centers, and related officials to ensure the safety and continuity of mental care for individuals. The healthcare system would require supporting mechanisms to alleviate pandemic-induced challenges mentioned above, including trauma-informed ICU care, virtual support, adequate training, staffing, and equipment. The authors expect a more important role for nurses.
+
+The article mostly cites from professional healthcare institutions including CDC and American Psychiatric Association and medical research journals. Every claim is supported by sufficient evidence, so there should be no credibility issues. \emph{This article may help us define the mental health challenge.} It also included solutions in the last two paragraphs without investigating.
+    }
+}
+
+@Article{info:doi/10.2196/24868,
+author="Richardson, Chris G
+and Slemon, Allie
+and Gadermann, Anne
+and McAuliffe, Corey
+and Thomson, Kimberly
+and Daly, Zachary
+and Salway, Travis
+and Currie, Leanne M
+and David, Anita
+and Jenkins, Emily",
+title="Use of Asynchronous Virtual Mental Health Resources for COVID-19 Pandemic--Related Stress Among the General Population in Canada: Cross-Sectional Survey Study",
+journal="J Med Internet Res",
+year="2020",
+month="Dec",
+day="30",
+volume="22",
+number="12",
+pages="e24868",
+keywords="virtual health; digital health; virtual mental health; mental health; public health; COVID-19; coping; stress; implementation; utilization",
+annote = {
+The article investigates the usage of AVMH (Asynchronous Virtual Mental Health, any apps or websites that do not involve direct synchoronous contact with mental healthcare providers) among the public in Canada during COVID-19 pandemic. As an alternative to in-person meeting between patients and professionals, AVMH displayed great potential in controlling symptoms and reducing the need for clinical care. However, its usage and effects were limited according to research before the pandemic. The authors collected data from a large multiwave cross-sectional monitoring survey conducted on the internet among Canadian adults from various backgrounds including different ages, ethnicities, genders, regions, and income levels, who underwent negative mental conditions during the pandemic. The result proved that AVMH resources have been underutilized, and the authors concluded several reasons: (1) AVMH was not previously proven to be ``underutilized'', and therefore its effectiveness was under question. (2) Technological literacy and privacy concerns impaired the comfort of using AVMH resources. (3) Not all apps that claimed to provide AVMH service were proven effective and trustworthy. (4) Severe symptoms might stop patients from using AVMH. However, the study also discovered that certain minorities had a higher percentage of AVMH usage due to the anonymity of AVMH, and AVMH users who received peer support were more likely to keep using related services. At last, the authors suggested that the usage of AVMH should be further promoted as a key foundation of a denser face-to-face mental support rather than a replacement for clinical diagnosis.
+
+The survey report provided insight into AVMH as a solution to pandemic-induced mental challenges. It used mostly journal articles and the confidentiality of the sources could be verified. Although it did not involve data concerning AVMH consulting results, we could possibly suggest expanding the usage of AVMH as a solution to our main problem.
+},
+issn="1438-8871",
+doi="10.2196/24868",
+url="http://www.jmir.org/2020/12/e24868/",
+url="https://doi.org/10.2196/24868",
+url="http://www.ncbi.nlm.nih.gov/pubmed/33315583"
+}
+
