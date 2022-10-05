@@ -1,0 +1,9 @@
+# Ignore everything
+*
+# Whitelist files
+!.gitignore
+!.gitattributes
+!annot.bib
+!IEEEannot.bst
+!SA2Annot.tex
+!SA2Annot.pdf
